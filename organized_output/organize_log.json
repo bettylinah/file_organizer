@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-10-19T01:22:33.219896",
+    "src": "sample_files\\copy.txt",
+    "dest": "organized_output\\Documents\\copy.txt"
+  },
+  {
+    "timestamp": "2025-10-19T01:22:33.222512",
+    "src": "sample_files\\image2.jpg",
+    "dest": "organized_output\\Images\\image2.jpg"
+  },
+  {
+    "timestamp": "2025-10-22T14:51:49.239846",
+    "src": "sample_files\\avatar.avi",
+    "dest": "organized_output\\Videos\\avatar.avi"
+  },
+  {
+    "timestamp": "2025-10-22T14:51:49.244832",
+    "src": "sample_files\\bat.zip",
+    "dest": "organized_output\\Archives\\bat.zip"
+  },
+  {
+    "timestamp": "2025-10-22T14:51:49.251814",
+    "src": "sample_files\\classwork.pdf",
+    "dest": "organized_output\\Documents\\classwork.pdf"
+  },
+  {
+    "timestamp": "2025-10-22T14:51:49.257799",
+    "src": "sample_files\\jhope.jpg",
+    "dest": "organized_output\\Images\\jhope.jpg"
+  }
+]
